@@ -34,7 +34,7 @@ if login_button:
             
             # 데이터 생성
             data = {
-                "name": ["22_Questions_01_M50", "22_Questions_02_M69", "22_Questions_03_M68", "22_Questions_04_F55", "22_Questions_05_F48", "22_Questions_06_F26", "22_Questions_07_F35", "22_Questions_08_F52", "22_Questions_09_F58"],
+                "name": ["22_Questions_01_M50", "22_Questions_02_M69", "22_Questions_03_M68", "22_Questions_04_F55", "22_Questions_05_F48", "22_Questions_06_F26", "22_Questions_07_F35", "22_Questions_08_F52", "22_Questions_09_F58", "22_Questions_10_M73"],
                 "url": ["https://amcgi-22questions01.streamlit.app/", "https://amcgi-22questions02.streamlit.app/", "https://amcgi-22questions03.streamlit.app/", "https://amcgi-22questions04.streamlit.app/", "https://amcgi-22questions05.streamlit.app/", "https://amcgi-22questions06.streamlit.app/", "https://amcgi-22questions07.streamlit.app/", "https://amcgi-22questions08.streamlit.app/", "https://amcgi-22questions09.streamlit.app/", "https://amcgi-22questions10.streamlit.app/"],
                 "excel_file": ["./data/22_Questions_01.xlsx", "./data/22_Questions_02.xlsx", "./data/22_Questions_03.xlsx", "./data/22_Questions_04.xlsx", "./data/22_Questions_05.xlsx", "./data/22_Questions_06.xlsx", "./data/22_Questions_07.xlsx", "./data/22_Questions_08.xlsx", "./data/22_Questions_09.xlsx", "./data/22_Questions_10.xlsx"]  # Excel 파일 경로 추가
             }
